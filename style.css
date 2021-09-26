@@ -62,7 +62,7 @@ a {
 
 .box {
   background-color: #444;
-  padding: 60px;
+  padding: 50px;
   margin: 15px;
 }
 
@@ -75,7 +75,7 @@ a {
 }
 
 .cover {
-  width: 25rem;
+  width: 30rem;
 }
 
 .box:hover {
